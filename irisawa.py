@@ -223,8 +223,8 @@ def main():
     	#st.text("Thanks to the Streamlit Team Amazing Work")
 
     if st.checkbox("By"):
-        st.text("Aidara Chamsedine")
-        st.text("aidarachamsedine10@gmail.com")
+        st.text("Hawa")
+        st.text("awagueye1005@gmail.com")
 
 
 if __name__ == "__main__":
